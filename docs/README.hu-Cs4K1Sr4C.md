@@ -28,7 +28,7 @@
 </h2>
 
 <p align="center">
-Csatlakozzon hozzánk, az AgentGPT fejlesztéséhez, egy nyílt forráskódú projekthez, amely az AI automatizálás határait feszegeti! Kihívásokkal nézünk szembe a működési költségek fedezése 💸, beleértve a házon belüli API-t és egyéb infrastrukturális költségeket, amelyek az előrejelzések szerint körülbelül napi 150 USD-ra nőnek. 💳🤕 Az Ön szponzorálása elősegítené a fejlődést azáltal, hogy segít nekünk az erőforrások bővítésében, a funkciók és a funkcionalitás bővítésében, valamint az izgalmas projekt folytatásában! 🚀
+Csatlakozzon  hozzánk, az AgentGPT fejlesztéséhez, egy nyílt forráskódú projekthez, amely az AI automatizálás határait feszegeti! Kihívásokkal nézünk szembe a működési költségek fedezése 💸, beleértve a házon belüli API-t és egyéb infrastrukturális költségeket, amelyek az előrejelzések szerint körülbelül napi 150 USD-ra nőnek. 💳🤕 Az Ön szponzorálása elősegítené a fejlődést azáltal, hogy segít nekünk az erőforrások bővítésében, a funkciók és a funkcionalitás bővítésében, valamint az izgalmas projekt folytatásában! 🚀
 </p>
 
 <p align="center">
